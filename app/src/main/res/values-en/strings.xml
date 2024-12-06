@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My proyecto final</string>
+    <string name="nombre">NoteTasker</string>
+    <string name="nota">Note</string>
+    <string name="tarea">Task</string>
+    <string name="hoy">Today</string>
+    <string name="programadas">Scheduled</string>
+    <string name="terminadas">Completed</string>
+    <string name="todas">All</string>
+    <string name="listas">Lists</string>
+    <string name="nueva">New</string>
+    <string name="m_listas">My lists</string>
+    <string name="m_notas">My notes</string>
+    <string name="m_tareas">My tasks</string>
+    <string name="buscar">Search</string>
+    <string name="s_f">Select the date</string>
+    <string name="s_h">Select the time</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="archivos">Files</string>
+    <string name="fecha">Date</string>
+    <string name="hora">Time</string>
+    <string name="Añadir">Add</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My proyecto final</string>
+    <string name="nombre">NoteTasker</string>
+    <string name="nota">Nota</string>
+    <string name="tarea">Tarea</string>
+    <string name="hoy">Hoy</string>
+    <string name="programadas">Programadas</string>
+    <string name="terminadas">Terminados</string>
+    <string name="todas">Todos</string>
+    <string name="listas">Listas</string>
+    <string name="nueva">Nueva</string>
+    <string name="m_listas">Mis listas</string>
+    <string name="m_notas">Mis notas</string>
+    <string name="m_tareas">Mis tareas</string>
+    <string name="buscar">Buscar</string>
+    <string name="s_f">Selecciona la fecha</string>
+    <string name="s_h">Selecciona la hora</string>
+    <string name="name">Nombre</string>
+    <string name="description">Descripccion</string>
+    <string name="archivos">Archivos</string>
+    <string name="fecha">Fecha</string>
+    <string name="hora">Hora</string>
+    <string name="Añadir">Añadir</string>
+</resources>
